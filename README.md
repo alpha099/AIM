@@ -8,3 +8,5 @@ Our school, the HTBLuVA Rankweil, in Rankweil, Vorarlberg, Austria, is a relativ
 
 About out project:
 We plan to create a fully modular, smart Inventory Management Product that makes keeping personal inventory of small to medium parts easier.
+
+test
